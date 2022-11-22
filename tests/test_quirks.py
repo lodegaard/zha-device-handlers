@@ -637,6 +637,24 @@ KNOWN_DUPLICATE_TRIGGERS = {
             (const.LONG_RELEASE, const.LONG_RELEASE),
         ]
     ],
+    zhaquirks.namron.switch.NamronFourChSwitch: [
+        [
+            (const.LONG_RELEASE, const.BUTTON_1),
+            (const.LONG_RELEASE, const.BUTTON_2),
+        ],
+        [
+            (const.LONG_RELEASE, const.BUTTON_3),
+            (const.LONG_RELEASE, const.BUTTON_4),
+        ],
+        [
+            (const.LONG_RELEASE, const.BUTTON_5),
+            (const.LONG_RELEASE, const.BUTTON_6),
+        ],
+        [
+            (const.LONG_RELEASE, const.BUTTON_7),
+            (const.LONG_RELEASE, const.BUTTON_8),
+        ],
+    ],
 }
 
 
